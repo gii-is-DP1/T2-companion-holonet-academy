@@ -49,7 +49,8 @@ to the backend.
 ```
 holonet-academy/
 ├── api/db.json                  Mock backend data (json-server)
-├── docs/teaching-notes.md       Notes for the lecturer: timings, questions, common mistakes
+├── docs/teaching-notes.md       Lecturer notes: timings, questions, common mistakes
+├── docs/guion-clase.md          Guión de clase minuto a minuto (ES), integrado con las transparencias
 ├── index.html                   The single page of the SPA
 ├── vite.config.js               Dev server + /api proxy to json-server
 └── src/
