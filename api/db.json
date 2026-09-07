@@ -1,0 +1,31 @@
+{
+  "starships": [
+    { "id": 1, "name": "Millennium Falcon", "starshipClass": "YT-1300 light freighter", "faction": "Rebellion", "crew": 4, "hyperdrive": 0.5 },
+    { "id": 2, "name": "T-65B X-wing", "starshipClass": "Starfighter", "faction": "Rebellion", "crew": 1, "hyperdrive": 1.0 },
+    { "id": 3, "name": "BTL-A4 Y-wing", "starshipClass": "Bomber", "faction": "Rebellion", "crew": 2, "hyperdrive": 1.0 },
+    { "id": 4, "name": "RZ-1 A-wing", "starshipClass": "Interceptor", "faction": "Rebellion", "crew": 1, "hyperdrive": 1.0 },
+    { "id": 5, "name": "TIE/ln fighter", "starshipClass": "Starfighter", "faction": "Empire", "crew": 1, "hyperdrive": 0 },
+    { "id": 6, "name": "TIE Advanced x1", "starshipClass": "Starfighter", "faction": "Empire", "crew": 1, "hyperdrive": 4.0 },
+    { "id": 7, "name": "Imperial I-class Star Destroyer", "starshipClass": "Star Destroyer", "faction": "Empire", "crew": 47060, "hyperdrive": 2.0 },
+    { "id": 8, "name": "Lambda-class shuttle", "starshipClass": "Transport", "faction": "Empire", "crew": 6, "hyperdrive": 1.0 },
+    { "id": 9, "name": "Ghost", "starshipClass": "VCX-100 light freighter", "faction": "Rebellion", "crew": 6, "hyperdrive": 1.5 },
+    { "id": 10, "name": "Slave I", "starshipClass": "Firespray-31 patrol craft", "faction": "Bounty Hunter", "crew": 1, "hyperdrive": 3.0 }
+  ],
+  "characters": [
+    { "id": 1, "name": "Luke Skywalker", "role": "Pilot, Red Five", "homeworld": "Tatooine", "faction": "Rebellion" },
+    { "id": 2, "name": "Leia Organa", "role": "Senator and commander", "homeworld": "Alderaan", "faction": "Rebellion" },
+    { "id": 3, "name": "Han Solo", "role": "Smuggler, later general", "homeworld": "Corellia", "faction": "Rebellion" },
+    { "id": 4, "name": "Chewbacca", "role": "Co-pilot and mechanic", "homeworld": "Kashyyyk", "faction": "Rebellion" },
+    { "id": 5, "name": "Wedge Antilles", "role": "Pilot, Red Two", "homeworld": "Corellia", "faction": "Rebellion" },
+    { "id": 6, "name": "Hera Syndulla", "role": "Captain of the Ghost", "homeworld": "Ryloth", "faction": "Rebellion" },
+    { "id": 7, "name": "Wilhuff Tarkin", "role": "Grand Moff", "homeworld": "Eriadu", "faction": "Empire" },
+    { "id": 8, "name": "Thrawn", "role": "Grand Admiral", "homeworld": "Csilla", "faction": "Empire" }
+  ],
+  "planets": [
+    { "id": 1, "name": "Tatooine", "climate": "arid", "terrain": "desert", "population": 200000 },
+    { "id": 2, "name": "Hoth", "climate": "frozen", "terrain": "tundra and ice caves", "population": 0 },
+    { "id": 3, "name": "Dagobah", "climate": "murky", "terrain": "swamp and jungle", "population": 1 },
+    { "id": 4, "name": "Endor", "climate": "temperate", "terrain": "forest", "population": 30000000 },
+    { "id": 5, "name": "Coruscant", "climate": "temperate", "terrain": "cityscape", "population": 1000000000000 }
+  ]
+}
