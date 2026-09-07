@@ -5,7 +5,7 @@ import { Lesson, Demo, Note, Challenge } from '../../ui/Lesson.jsx';
 // together with two NAMED exports (whose names must match).
 import openHolocron, { HOLOCRON_KEEPER, listTeachings } from './holocron.js';
 
-// import { decryptKyberSignature } from './holocron.js';
+//import { decryptKyberSignature } from './holocron.js';
 //   ^ uncomment this line to see the error the slides talk about:
 //     the function exists in holocron.js but it is not exported,
 //     so from the outside it simply does not exist.

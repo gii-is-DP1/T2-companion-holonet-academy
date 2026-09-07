@@ -24,7 +24,7 @@ npm run dev
 `npm run dev` starts both at once. If you prefer separate terminals, use
 `npm run web` and `npm run api`.
 
-Requires Node 18 or newer.
+Requires Node 20.19+ (20.x), or Node 22.12+; Node 24 LTS is recommended.
 
 ## What is in here
 
